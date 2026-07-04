@@ -136,5 +136,6 @@ flutter build apk --release
 
 ```bash
 You can install and try the application by downloading afiatrade.apk in the root of this project.
-# direct download: https://github.com/wafiqmuhaz/afiatrade/raw/refs/heads/main/afiatrade.apk
 ```
+# direct download:
+[Afiatrade (Github)](https://github.com/wafiqmuhaz/afiatrade/raw/refs/heads/main/afiatrade.apk)
