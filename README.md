@@ -131,3 +131,10 @@ dev_dependencies:
 flutter build apk --release
 # output: build/app/outputs/flutter-apk/app-release.apk
 ```
+
+## 8. Trying the app
+
+```bash
+You can install and try the application by downloading afiatrade.apk in the root of this project.
+# direct download: https://github.com/wafiqmuhaz/afiatrade/raw/refs/heads/main/afiatrade.apk
+```
